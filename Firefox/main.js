@@ -14,6 +14,9 @@ contextMenu.Item({
     self.data.url('content-script.js')
   ],
   onMessage: function (url) {
-    tabs.open(url);
+    tabs.open({
+      url: url,
+      inBackground: true
+    });
   }
 });
