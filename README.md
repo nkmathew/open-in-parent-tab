@@ -1,7 +1,3 @@
-[![Project wip: Work In Progress][wip-svg]][wip-link]
-
----
-
 ### Open Link in New Parent Tab
 A Firefox add-on that enables you to open a link in a new parent tab through a
 context menu command, as opposed to opening the link as a child tab. Particularly
@@ -54,5 +50,3 @@ I'm keeping it
 [2]: https://www.npmjs.com/package/jpm
 [3]: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 [4]: https://addons.mozilla.org/en-US/firefox/addon/tab-tree/
-[wip-svg]: http://www.repowip.org/badges/latest/wip.svg
-[wip-link]: http://www.repowip.org/#wip
