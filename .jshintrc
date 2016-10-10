@@ -1,0 +1,19 @@
+{
+  "quotmark": "single",
+  "undef": true,
+  "unused": "vars",
+  "strict": false,
+  "multistr": true,
+  "sub": true,
+  "loopfunc": true,
+  "browser": true,
+  "devel": true,
+  "jquery": true,
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "esnext": true,
+  "globals": {
+    "self": true
+  }
+}

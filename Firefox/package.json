@@ -1,0 +1,11 @@
+{
+  "author": "nkmathew",
+  "description": "Opens a link in a parent tab instead of in a nested child tab as by default",
+  "icon": "chrome://open-in-parent-tab/content/images/icon-3.png",
+  "id": "open-in-parent-tab@nkmathew.net",
+  "license": "MIT",
+  "main": "main.js",
+  "name": "open-in-parent-tab",
+  "title": "Open in Parent Tab",
+  "version": "0.1.0"
+}

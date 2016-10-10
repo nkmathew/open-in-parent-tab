@@ -1,0 +1,6 @@
+{
+  "devtools.theme": "dark",
+  "browser.startup.homepage": "https://es.wikipedia.org/",
+  "startup.homepage_welcome_url": "https://es.wikipedia.org/",
+  "browser.reader.detectedFirstArticle": true
+}
