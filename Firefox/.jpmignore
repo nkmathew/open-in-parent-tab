@@ -4,3 +4,7 @@
 # Ignore any zip or xpi files
 *.zip
 *.xpi
+
+# AMO warns about git ignore files when submitting the add-on
+.gitignore
+.jpmignore
