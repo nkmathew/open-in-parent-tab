@@ -20,8 +20,8 @@ I'm keeping it
 - Tools:
 
   + Install [Extension Auto-Installer][1] add-on
-    - Enables you to easily test the add-on without having to generate the `xpi`
-      installing it manually from the **Add-ons Manager**
+    - Enables you to easily test the add-on without having to generate the `xpi` and
+      manually installing it from the **Add-ons Manager**
   + Install [Jetpack Mechanic Utilities][2], `npm install jpm -g`
   + GNU Make (for running the Makefile of course)
 
