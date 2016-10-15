@@ -12,6 +12,8 @@ And yes, I'm definitely overselling it. It's far from being a must-have and come
 really close to the hello world of Firefox SDK add-ons, but it fits my workflow and
 I'm keeping it
 
+[Install from AMO](https://addons.mozilla.org/en-US/firefox/addon/open-in-parent-tab/)
+
 ### Screenshot
 ![](http://image.prntscr.com/image/a2a4e03357c8470384ddd75dd0a4cc39.png)
 
