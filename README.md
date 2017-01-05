@@ -1,4 +1,4 @@
-[![Users][5]][8]
+[![Downloads][5]][8]
 [![Rating][6]][9]
 [![Stars][7]][8]
 
@@ -56,7 +56,7 @@ I'm keeping it
 [2]: https://www.npmjs.com/package/jpm
 [3]: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 [4]: https://addons.mozilla.org/en-US/firefox/addon/tab-tree/
-[5]: https://img.shields.io/amo/users/open-in-parent-tab.svg
+[5]: https://img.shields.io/amo/d/open-in-parent-tab.svg
 [6]: https://img.shields.io/amo/rating/open-in-parent-tab.svg
 [7]: https://img.shields.io/amo/stars/open-in-parent-tab.svg
 [8]: https://addons.mozilla.org/en-US/firefox/addon/open-in-parent-tab/
