@@ -1,3 +1,7 @@
+[![Users][5]][8]
+[![Rating][6]][9]
+[![Stars][7]][8]
+
 ### Open Link in New Parent Tab
 A Firefox add-on that enables you to open a link in a new parent tab through a
 context menu command, as opposed to opening the link as a child tab. Particularly
@@ -12,7 +16,7 @@ And yes, I'm definitely overselling it. It's far from being a must-have and come
 really close to the hello world of Firefox SDK add-ons, but it fits my workflow and
 I'm keeping it
 
-[Install from AMO](https://addons.mozilla.org/en-US/firefox/addon/open-in-parent-tab/)
+[Install from AMO][8]
 
 ### Screenshot
 ![](http://image.prntscr.com/image/a2a4e03357c8470384ddd75dd0a4cc39.png)
@@ -52,3 +56,8 @@ I'm keeping it
 [2]: https://www.npmjs.com/package/jpm
 [3]: https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 [4]: https://addons.mozilla.org/en-US/firefox/addon/tab-tree/
+[5]: https://img.shields.io/amo/users/open-in-parent-tab.svg
+[6]: https://img.shields.io/amo/rating/open-in-parent-tab.svg
+[7]: https://img.shields.io/amo/stars/open-in-parent-tab.svg
+[8]: https://addons.mozilla.org/en-US/firefox/addon/open-in-parent-tab/
+[9]: https://addons.mozilla.org/en-US/firefox/addon/open-in-parent-tab/reviews/
